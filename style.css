@@ -132,11 +132,11 @@ body {
 }
 
 .modal-content-box .modal-text {
-  font-size: 40px;
+  font-size: 2.5rem;
   font-family: monospace;
 }
 
 .modal-content-box .modal-subtext {
-  font-size: 20px;
+  font-size: 1.2rem;
   color: var(--theme-color);
 }
